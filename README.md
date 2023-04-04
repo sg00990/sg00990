@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sg00990, a.k.a Sarah
-- 👀 I’m interested in music and reading
-- 🌱 I’m currently learning computer science
+- 👋 Hi, my name is Sarah!
+- 👀 I’m interested in web and frontend development
+- 🌱 I’m currently a senior computer science major at KSU
 
