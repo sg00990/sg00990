@@ -3,10 +3,9 @@
 I'm a recent computer science graduate with a minor in Japanese. My passion lies in app and web development, and I love creating projects that solve real-world problems.
 
 ## Skills
-- Languages: Java, C++, C, Python, HTML/CSS, JavaScript
+- Languages: Java, C++, C, Python, HTML/CSS, JavaScript, R, SQL
 - Frameworks/Libraries: Flutter
-- Databases: MySQL
-- Tools: Git, VS Code
+- Tools: Git, VS Code, Excel, Tableau, RStudio
 
 ## Interests
 
