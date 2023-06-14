@@ -1,6 +1,6 @@
 # Hi, I'm Sarah!
 
-I'm a recent computer science graduate with a minor in Japanese. My passion lies in app and web development, and I love creating projects that solve real-world problems.
+I'm a recent computer science graduate with a minor in Japanese. My passion lies in app/web development and data analytics, and I love creating projects that solve real-world problems.
 
 ## Skills
 - Languages: Java, C++, C, Python, HTML/CSS, JavaScript, R, SQL
