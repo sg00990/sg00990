@@ -4,7 +4,7 @@ I'm a recent computer science graduate with a minor in Japanese. My passion lies
 
 ## Skills
 - Languages: Java, C++, C, Python, HTML/CSS, JavaScript, R, SQL
-- Frameworks/Libraries: Flutter
+- Frameworks/Libraries: Flutter, tidyverse
 - Tools: Git, VS Code, Excel, Tableau, RStudio
 
 ## Interests
