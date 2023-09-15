@@ -10,8 +10,8 @@ I'm a computer science graduate with a minor in Japanese. My passion lies in app
 ## Projects
 
 - [Pet Planner](https://github.com/JPalmDesign/INDY8-Pet_Planner)
+- [Interactive Resume - Tableau](https://github.com/sg00990/interactive_resume)
 - [Tic Tac Toe Using Flutter](https://github.com/sg00990/TicTacToe_Flutter)
-- [Screen Time Data Analysis](https://github.com/sg00990/screentime_analysis_june_july)
 - [COVID-19 Cases in Japan Analysis](https://github.com/sg00990/japan-covid-analysis)
 - [Arithmescript Demo App](https://github.com/SWE-G2/Arithmescript-Demo-App)
 
