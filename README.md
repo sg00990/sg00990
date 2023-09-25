@@ -4,8 +4,8 @@ I'm a computer science graduate with a minor in Japanese. My passion lies in app
 
 ## Skills
 - Languages: Java, C++, C, Python, HTML/CSS, JavaScript, R, SQL, Snowflake
-- Frameworks/Libraries: Flutter, tidyverse, Pandas
-- Tools: Git, VS Code, Excel, Tableau, RStudio, Power BI, Streamlit
+- Frameworks/Libraries: Flutter, tidyverse, Pandas, Streamlit
+- Tools: Git, VS Code, Excel, Tableau, RStudio, Power BI, Jupyter Notebook
 
 ## Projects
 
