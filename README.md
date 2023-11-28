@@ -1,6 +1,6 @@
 # Hi, I'm Sarah!
 
-I'm a computer science graduate with a minor in Japanese. My passion lies in app/web development and data analytics, and I love creating projects that solve real-world problems. I am currently a Data & Analytics Intern at Moser Consulting.
+I'm a computer science graduate with a minor in Japanese. My passion lies in app/web development and data analytics, and I love creating projects that solve real-world problems. I am currently an Associate Data Visualization Engineer at Moser Consulting.
 
 ## Skills
 - Languages: Java, C++, C, Python, HTML/CSS, JavaScript, R, SQL, Snowflake
