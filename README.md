@@ -1,6 +1,6 @@
 # Hi, I'm Sarah!
 
-I'm a computer science graduate with a minor in Japanese. My passion lies in app/web development and data analytics, and I love creating projects that solve real-world problems. I am currently an Associate Data Visualization Engineer at Moser Consulting.
+I am currently an Associate Data Visualization Engineer at Moser Consulting. I create apps with PowerApps and Streamlit as well as work with a multitude of other data viz tools. My passion lies in app/web development and data analytics, and I love creating projects that solve real-world problems.
 
 ## Skills
 - Languages: Java, C++, C, Python, HTML/CSS, JavaScript, R, SQL, Snowflake
@@ -17,7 +17,7 @@ I'm a computer science graduate with a minor in Japanese. My passion lies in app
 
 ## Interests
 
-Apart from programming, I enjoy learning new languages and exploring different cultures. I'm also an avid reader and enjoy reading sci-fi and fantasy.
+Apart from programming, I enjoy learning new languages and exploring different cultures. I studied Japanese in college, so I am always looking to improve my skills. I'm also an avid reader and enjoy reading sci-fi and fantasy.
 
 ## Contact
 
