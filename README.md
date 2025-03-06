@@ -1,6 +1,6 @@
 # Hi, I'm Sarah!
 
-I am currently an Associate Data Visualization Engineer at Moser Consulting. I create apps with PowerApps and Streamlit as well as work with a multitude of other data viz tools. My passion lies in app/web development and data analytics, and I love creating projects that solve real-world problems.
+I am currently a Data Engineer at Moser Consulting. I create apps with PowerApps and Streamlit as well as work with a multitude of other data viz tools. My passion lies in app/web development and data analytics, and I love creating projects that solve real-world problems.
 
 ## Skills
 - Languages: Java, C++, C, Python, HTML/CSS, JavaScript, R, SQL, Snowflake
